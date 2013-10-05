@@ -4,13 +4,22 @@
   <title><![CDATA[Miguelgraz]]></title>
   <link href="http://miguelgraz.com/atom.xml" rel="self"/>
   <link href="http://miguelgraz.com/"/>
-  <updated>2013-10-05T17:48:24-03:00</updated>
+  <updated>2013-10-05T19:52:44-03:00</updated>
   <id>http://miguelgraz.com/</id>
   <author>
     <name><![CDATA[Miguelgraz]]></name>
-    
+    <email><![CDATA[miguelgraz@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zombie Ninjas Attack: A survivor's retrospective]]></title>
+    <link href="http://miguelgraz.com/posts/2013/10/05/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <updated>2013-10-05T18:12:00-03:00</updated>
+    <id>http://miguelgraz.com/posts/2013/10/05/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <content type="html"><![CDATA[<p>a lot of nice things</p>
+]]></content>
+  </entry>
   
 </feed>
