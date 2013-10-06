@@ -10,3 +10,10 @@ source/_stash
 source/stylesheets/screen.css
 vendor
 node_modules
+
+*.tmproj
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*.swn

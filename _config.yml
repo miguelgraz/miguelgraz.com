@@ -94,7 +94,7 @@ disqus_short_name: miguelgraz
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-44644168-1
 
 # Facebook
 facebook_user: miguelgraz
@@ -111,3 +111,6 @@ coderwall_user: miguelgraz
 # StackOverflow
 stackoverflow_user: miguelgraz
 stackoverflow_user_id: 645223
+
+# Gmail
+gmail_user: miguelgraz

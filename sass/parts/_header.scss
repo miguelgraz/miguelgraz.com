@@ -320,25 +320,11 @@ $header-height: 30px;
 			&:hover{
 				opacity: 1;
 			}
-			&.facebook{
-				background: image-url('social/facebook.png') center no-repeat #3B5998;
-				border: 1px solid #3B5998;
+			&.gmail{
+				background: image-url('social/gmail.png') center no-repeat #A90000;
+				border: 1px solid #A90000;
 				&:hover{
-					border: 1px solid darken(#3B5998, 10%);
-				}
-			}
-			&.google{
-				background: image-url('social/google.png') center no-repeat #C83D20;
-				border: 1px solid #C83D20;
-				&:hover{
-					border: 1px solid darken(#C83D20, 10%);
-				}
-			}
-			&.twitter{
-				background: image-url('social/twitter.png') center no-repeat #55CFF8;
-				border: 1px solid #55CFF8;
-				&:hover{
-					border: 1px solid darken(#55CFF8, 10%);
+					border: 1px solid darken(#A90000, 10%);
 				}
 			}
 			&.github{
@@ -348,11 +334,18 @@ $header-height: 30px;
 					border: 1px solid darken(rgb(175,182,202), 10%);
 				}
 			}
-			&.coderwall{
-				background: image-url('social/coderwall.png') center no-repeat #3E8DCC;
-				border: 1px solid #3E8DCC;
+			&.twitter{
+				background: image-url('social/twitter.png') center no-repeat #55CFF8;
+				border: 1px solid #55CFF8;
 				&:hover{
-					border: 1px solid darken(#3E8DCC, 10%);
+					border: 1px solid darken(#55CFF8, 10%);
+				}
+			}
+			&.facebook{
+				background: image-url('social/facebook.png') center no-repeat #3B5998;
+				border: 1px solid #3B5998;
+				&:hover{
+					border: 1px solid darken(#3B5998, 10%);
 				}
 			}
 			&.stackoverflow{
@@ -362,9 +355,23 @@ $header-height: 30px;
 					border:1px solid #CC7A00;
 				}
 			}
+			&.coderwall{
+				background: image-url('social/coderwall.png') center no-repeat #3E8DCC;
+				border: 1px solid #3E8DCC;
+				&:hover{
+					border: 1px solid darken(#3E8DCC, 10%);
+				}
+			}
 			&.linkedin{
 				background: image-url('social/linkedin.png') center no-repeat #005A87;
 				border: 1px solid #005A87;
+			}
+			&.google{
+				background: image-url('social/google.png') center no-repeat #C83D20;
+				border: 1px solid #C83D20;
+				&:hover{
+					border: 1px solid darken(#C83D20, 10%);
+				}
 			}
 			&.pinterest{
 				background: image-url('social/pinterest.png') center no-repeat rgb(190,64,55);
