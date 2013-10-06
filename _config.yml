@@ -96,5 +96,18 @@ disqus_show_comment_count: true
 # Google Analytics
 google_analytics_tracking_id:
 
+# Facebook
+facebook_user: miguelgraz
+
 # Facebook Like
 facebook_like: true
+
+# LinkedIn
+linkedin_user: miguelgraz
+
+# Coderwall
+coderwall_user: miguelgraz
+
+# StackOverflow
+stackoverflow_user: miguelgraz
+stackoverflow_user_id: 645223
