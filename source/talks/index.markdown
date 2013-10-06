@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-Here you can find some of my talks, hopefully I'll keep updating with more and more of them.
+Here you can find some of the talks I gave in different places and situations, along to a small description of each one.
 
 <hr>
 
