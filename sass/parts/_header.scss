@@ -320,11 +320,11 @@ $header-height: 30px;
 			&:hover{
 				opacity: 1;
 			}
-			&.gmail{
-				background: image-url('social/gmail.png') center no-repeat #A90000;
-				border: 1px solid #A90000;
+			&.email{
+				background: image-url('social/email.png') center no-repeat #050505;
+				border: 1px solid #050505;
 				&:hover{
-					border: 1px solid darken(#A90000, 10%);
+					border: 1px solid darken(#050505, 10%);
 				}
 			}
 			&.github{

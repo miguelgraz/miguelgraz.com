@@ -14,8 +14,8 @@
 <nav id="main-nav">{% include navigation.html %}</nav>
 <nav id="sub-nav">
 	<div class="social">
-		{% if site.gmail_user %}
-			<a class="gmail" href="mailto:hi@miguelgraz.com" title="Send me an Email">Send me an Email</a>
+		{% if site.email %}
+			<a class="email" href="mailto:{{ site.email }}" title="Email">Email</a>
 		{% endif %}
 		{% if site.github_user %}
 			<a class="github" href="https://github.com/{{ site.github_user }}" title="GitHub">GitHub</a>
