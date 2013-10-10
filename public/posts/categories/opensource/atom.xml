@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Miguelgraz]]></title>
-  <link href="http://miguelgraz.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: opensource | Miguelgraz]]></title>
+  <link href="http://miguelgraz.com/posts/categories/opensource/atom.xml" rel="self"/>
   <link href="http://miguelgraz.com/"/>
   <updated>2013-10-09T22:57:51-03:00</updated>
   <id>http://miguelgraz.com/</id>
@@ -27,15 +27,6 @@
 <p>Eu já ajudei na tradução para português e depois vou buscar melhorar meus conhecimentos em Python para ajudar esses caras a desenvolver o gSharkDown e disponibilizar para a galera, participar de uma melhoria para qualquer outro Miguel por aí que resolver mudar e deixar de piratear música já é um baita “pagamento”.</p>
 
 <p>Bora ajudar?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zombie Ninjas Attack: A survivor's retrospective]]></title>
-    <link href="http://miguelgraz.com/posts/2013/10/05/zombie-ninjas-attack-a-survivors-retrospective/"/>
-    <updated>2013-10-05T18:12:00-03:00</updated>
-    <id>http://miguelgraz.com/posts/2013/10/05/zombie-ninjas-attack-a-survivors-retrospective</id>
-    <content type="html"><![CDATA[<p>a lot of nice things</p>
 ]]></content>
   </entry>
   
