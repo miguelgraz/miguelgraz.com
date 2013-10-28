@@ -1,20 +1,17 @@
 ---
-layout: default
+layout: page
+title: 
+date: 2013-10-28 20:49
+comments: false
+sharing: false
+footer: false
 ---
 
-{% assign index = true %}
-<div itemscope itemtype="http://schema.org/Blog">
-{% for post in paginator.posts %}
-{% assign content = post.content %}
-    <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">{% include article.html %}</article>
-{% endfor %}
+<div class="home">
+  <div class="first">
+    <strong>Well hello there! I'm Miguel, also known in the internet world as Miguelgraz. I am a software developer/engineer passionate both by code and people.</strong>
+  </div>
+
+  <p>I believe it's always good to be in touch with different points of view and habilities, so I'm here to share some thoughts and techie skills that hopefully will be useful for someone.</p>
+  <p>Also trying to write more about my pet projects and describing my talks, because all knowledge is relevant but people should come in the first place.</p>
 </div>
-<nav id="pagenavi">
-    {% if paginator.previous_page %}
-        <a href="{{paginator.previous_page}}" class="prev">Prev</a>
-    {% endif %}
-    {% if paginator.next_page %}
-        <a href="{{paginator.next_page}}" class="next">Next</a>
-    {% endif %}
-    <div class="center"><a href="{{ root_url }}/blog/archives">Blog Archives</a></div>
-</nav>

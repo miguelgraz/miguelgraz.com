@@ -1,12 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>
-            http://miguelgraz.com/posts/2013/10/05/zombie-ninjas-attack-a-survivors-retrospective/
-        </loc>
-        <lastmod>2013-10-05T19:15:45-03:00</lastmod>
-    </url>
-    <url>
         <loc>http://miguelgraz.com/posts/2013/10/09/pirataria-awesome-apps-e-contribuicoes/</loc>
         <lastmod>2013-10-09T22:57:51-03:00</lastmod>
     </url>
@@ -23,6 +17,10 @@
         <lastmod>2013-10-06T18:48:59-03:00</lastmod>
     </url>
     <url>
+        <loc>http://miguelgraz.com/blog/</loc>
+        <lastmod>2013-10-09T22:57:51-03:00</lastmod>
+    </url>
+    <url>
         <loc>http://miguelgraz.com/talks/</loc>
         <lastmod>2013-10-06T20:30:06-03:00</lastmod>
     </url>
@@ -32,6 +30,6 @@
     </url>
     <url>
         <loc>http://miguelgraz.com/</loc>
-        <lastmod>2013-10-09T22:57:51-03:00</lastmod>
+        <lastmod>2013-10-28T21:28:28-02:00</lastmod>
     </url>
 </urlset>

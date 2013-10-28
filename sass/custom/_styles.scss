@@ -1,6 +1,24 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
+// General
+body {
+  font-size: 16px;
+}
+
+// Home
+div.home {
+  font-size: 18px;
+  margin-top: 60px;
+  margin-left: 200px;
+  margin-right: 200px;
+  .first {
+    font-size: 22px;
+    line-height: 28px;
+  }
+}
+
+// Talks
 div.speakerdeck {
   width: 615px;
 }
