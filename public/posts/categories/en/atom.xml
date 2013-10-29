@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Miguelgraz]]></title>
-  <link href="http://miguelgraz.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: en | Miguelgraz]]></title>
+  <link href="http://miguelgraz.com/posts/categories/en/atom.xml" rel="self"/>
   <link href="http://miguelgraz.com/"/>
   <updated>2013-10-28T22:12:16-02:00</updated>
   <id>http://miguelgraz.com/</id>
@@ -33,23 +33,6 @@
 <p>While I don&rsquo;t really want to follow the Academic path (at least this is the way I think while I&rsquo;m writing this, we never know), and my dream was/is mostly related to teach something nice and doing a little good to someone&rsquo;s life, the point is: at that time, I put effort and time to follow a direction a lot farther than the one I wanted to reach and realized that I could achieve what&rsquo;s needed to be a (good) teacher in other ways, learning different things and technologies by myself, studying at home, giving talks, workshops, attending to events. Don&rsquo;t get me wrong, the environment there is outstanding, but my objectives now are a bit different than this path.</p>
 
 <p>I believe the important here is that sometimes we don&rsquo;t exactly know what we want, and to try things is probably the best way to stop and think with more information to, perhaps, change our current course. Let us not be afraid of changes or what other people will say, if even we don&rsquo;t know our objectives sometimes, how can other people do?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Pirataria, Awesome Apps e Contribuições]]></title>
-    <link href="http://miguelgraz.com/posts/2013/10/09/pirataria-awesome-apps-e-contribuicoes/"/>
-    <updated>2013-10-09T22:15:00-03:00</updated>
-    <id>http://miguelgraz.com/posts/2013/10/09/pirataria-awesome-apps-e-contribuicoes</id>
-    <content type="html"><![CDATA[<p>Sempre acreditei que pirataria se combate com preços justos/baixos e comodidade, e está aí o sucesso do <a href="http://store.steampowered.com/">Steam</a> que não me deixa mentir, ter uma plataforma user-friendly, com comodidade de pagamento rápido e entrega na velocidade de um download para comprar seus jogos/músicas/filmes/livros é muito mais sedutor e atraente que buscar torrent, keygen e afins para piratear<!-- more -->, mesmo o “maior pirata” considera pagar por essa comodidade, e, na minha humilde opinião, essa é a chave para acabar com a pirataria (lembremos que, independentemente de opinião, pirataria é crime até segunda ordem).</p>
-
-<p>Por essas razões e vontades pessoais de deixar de consumir qualquer tipo de pirataria que fiquei muito animado com a descoberta dessa incrível aplicação que trago pra você meu amigo <s>dono de casa</s> Linux user o <a href="http://gsharkdown.bultux.org/">gSharkDown</a>, uma aplicação desenvolvida em Python (infelizmente só para Linux) cliente de GrooveShark com diversas funcionalidades (inclusive download das músicas, mas não esqueça do que falamos anteriormente). Ainda está na versão 0.7 (baixe o pacote direto, é mais novo que o ppa), mas está muito madura e é muito promissora, vá conferir e pense na possibilidade de, usando o tubarãozim, deixar que as propagandas paguem teu consumo de música, que tal?</p>
-
-<p>E agora vem a melhor parte, o projeto do gSharkDown está no <a href="https://bitbucket.org/vkolev/gsharkdown">BitBucket deles</a>, disponível para qualquer boa alma que acredita nas mesmas coisas que eu e os mentores do projeto ajudar no desenvolvimento! Parece-me muito interessante um futuro onde as pessoas possam colaborar para ajudar as outras pessoas a consumirem o estilo de cultura que preferirem (que tipo de música tu gosta?) sem infringir nenhuma lei e dando os créditos (e dinheiros) aos proprietários das obras que estão consumindo, não concorda?</p>
-
-<p>Eu já ajudei na tradução para português e depois vou buscar melhorar meus conhecimentos em Python para ajudar esses caras a desenvolver o gSharkDown e disponibilizar para a galera, participar de uma melhoria para qualquer outro Miguel por aí que resolver mudar e deixar de piratear música já é um baita “pagamento”.</p>
-
-<p>Bora ajudar?</p>
 ]]></content>
   </entry>
   
