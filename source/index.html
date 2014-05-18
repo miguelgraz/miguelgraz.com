@@ -17,6 +17,7 @@ footer: false
   <p>I'm also trying to write more about <a href="{{ root_url }}/projects">my pet projects</a> and describing <a href="{{ root_url }}/talks">my talks</a>, because all knowledge is relevant and why wouldn't we take a change to give back to community, right?</p>
   <p>
     Well, sit back, make yourself confortable and read my last post:
-    <a href="{{site.posts.first.url}}">{{site.posts.first.title}}</a>
+    {% assign post = site.posts.first %}
+    <a href="{{post.url}}">{{post.title}}</a>
   </p>
 </div>

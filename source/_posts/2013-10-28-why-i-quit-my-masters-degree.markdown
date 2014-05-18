@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why I quit my Master's Degree"
+title: "Why I Quit my Master's Degree"
 date: 2013-10-28 22:03
 comments: true
 categories: en thoughts
