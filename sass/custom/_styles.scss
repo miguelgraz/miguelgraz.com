@@ -3,22 +3,36 @@
 
 // General
 body {
+  font-family: "PT Serif", "PT Serif Caption", "Georgia", "Times New Roman" "Times", serif;
   font-size: 16px;
-}
-
-// Home
-div.home {
-  font-size: 18px;
-  margin-top: 60px;
-  margin-left: 200px;
-  margin-right: 200px;
-  .first {
-    font-size: 22px;
-    line-height: 28px;
+  .container {
+    .left-col {
+    }
+    .mid-col {
+      background: #E4E4E4;
+      padding-top: 20px;
+      article {
+        color: #333;
+        h1.title {
+          font-weight: bold;
+        }
+        div.entry-content {
+          // Home
+          div.home {
+            font-size: 18px;
+            margin-left: 200px;
+            margin-right: 200px;
+            .first {
+              font-size: 22px;
+              line-height: 28px;
+            }
+          }
+          // Talks
+          div.speakerdeck {
+            width: 615px;
+          }
+        }
+      }
+    }
   }
-}
-
-// Talks
-div.speakerdeck {
-  width: 615px;
 }
