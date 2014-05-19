@@ -33,6 +33,12 @@ body {
           }
         }
       }
+      div.bottom-message {
+        font-size: 14px;
+        font-style: italic;
+        padding: 15px 0;
+        @include border-shadow();
+      }
     }
   }
 }
