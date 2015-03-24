@@ -15,7 +15,7 @@ Here you can find some of the talks I gave in different places and situations, a
 
 This talk was featured in several local events, from [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2014/) to [TcheLinux](http://poa.tchelinux.org/) and some events at local universities (known as _academic weeks_) like SenacRS, Unisinos and Feevale.
 
-It basically explains a bit of our case working with Avidity's team based in Sweden and how we improved our communication skills to deal with the difficulties of remote team work, of the huge cultural difference and of the communication with people that have such a distinct cultural background to get to a very united and "close" team, despite the actual distance and the time zone.
+It basically explains a bit of our case working with [Avidity](http://avidity.se/)'s team based in Sweden and how we improved our communication skills to deal with the difficulties of remote team work, of the huge cultural difference and of the communication with people that have such a distinct cultural background to get to a very united and "close" team, despite the actual distance and the time zone.
 <div class="speakerdeck">
   <script async class="speakerdeck-embed" data-id="c1ea6b00bd3e013141513eaa9c70471f" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
