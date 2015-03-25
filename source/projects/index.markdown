@@ -20,6 +20,6 @@ Here's a brief list of my side/pet projects, mostly things built to test some to
 
 It was really fun to work on it and have some insights about how to consume a REST API using JS with Angular, also after some mentions on facebook and [pokémon's subreddit](http://www.reddit.com/r/pokemon) it actually had _lots_ of access, including from people that discovered things like "when I catch 700+ pokemón the site breaks" while I cannot catch more than 30. I also learned that the word "pokémon" is already singular and plural!
 
-For now it isn't open source but will be in the near future, also I plan to reduce it to have just the original 150 pokémon (it's really hard to memorize 718 pokémon!), I'll update here when it's done.
+For now it isn't open source but will be in the near future, I also plan to reduce it to have just the original 150 pokémon (it's really hard to memorize 718 pokémon!), I'll update here when it's done.
 
 ## More to come...
