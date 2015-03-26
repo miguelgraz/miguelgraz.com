@@ -25,7 +25,7 @@ For now it isn't open source but will be in the near future, I also plan to redu
 
 [{% img center /images/projects/tomatin.png 960 486 'Tomat.in' 'Tomat.in' %}](http://ss14-team-214.divshot.io/)
 
-[Tomat.in](http://ss14-team-214.divshot.io/) was our idea on what to build to [StaticShowdown 2014](http://www.staticshowdown.com/) contest, back then some of us were using Pomodoro on a daily basis and more than once we messed up each other's Pomodoro, had to interrupt it to have a meeting or something like this and didn't know the best moment to do so, from this need came the idea of building one synced pomodoro to the whole team.
+[Tomat.in](http://ss14-team-214.divshot.io/) was our idea on what to build to [StaticShowdown 2014](http://www.staticshowdown.com/) hackathon, back then some of us were using Pomodoro on a daily basis and more than once we messed up each other's Pomodoro, had to interrupt it to have a meeting or something like this and didn't know the best moment to do so, from this need came the idea of building one synced pomodoro to the whole team.
 
 The way to use it is pretty obvious, you create a "room" with whatever name you choose and send its link to your peers, once everybody's ready anyone can start the Pomodoro and it's WORK TIME, when time's over you all can have short or long breaks to chit-chat or have some coffee with friends without interrupting anyone's work. Neat, uh?
 
