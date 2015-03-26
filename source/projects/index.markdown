@@ -11,7 +11,7 @@ Here's a brief list of my side/pet projects, mostly things built to test some to
 
 <hr>
 
-### PokeWho: How's that Pokémon?
+### PokeWho: Who's that Pokémon?
 
 [{% img center /images/projects/pokewho.png 960 486 'PokeWho' 'PokeWho' %}](http://www.pokewho.com)
 
