@@ -33,6 +33,11 @@ Obviously that doesn't work flawlessly to every team since people could like to 
 
 It was built in 48h (actually less than that, we didn't abdicate our sleep time), we didn't win the StaticShowdown but it was a fun project to build and to change focus a little bit from our daily serious business work. Its code is [available here](https://github.com/yaydev/tomat.in), we're accepting opinions, pull requests, feature requests and pretty much anything.
 
+### FocusFileOnSidebar: A Sublime Text's plugin
+
+[FocusFileOnSidebar](https://github.com/miguelgraz/FocusFileOnSidebar) was born due to a need I had, I'd like to navigate through Sublime's sidebar without touching the mouse but if you only change focus to the sidebar it navigates on "open files" section instead of the files tree.
+
+So to improve my everyday workflow and to start something using Python I went to Sublime's API to research a bit, after some experiments I ended up with the plugin's first version. Wondering if it would be useful for anyone else I published it on Sublime's Package Control and, for my surprise, it already has 8k+ downloads, people sent a few feedbacks, issues were created, new features were added by request and I was amazed on how great it was to build and maintain this small project.
 
 
 ## More to come...
