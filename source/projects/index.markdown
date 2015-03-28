@@ -40,4 +40,4 @@ It was built in 48h (actually less than that, we didn't abdicate our sleep time)
 So to improve my everyday workflow and to start something using Python I went to Sublime's API to research a bit, after some experiments I ended up with the plugin's first version. Wondering if it would be useful for anyone else I published it on Sublime's Package Control and, for my surprise, it already has 8k+ downloads, people sent a few feedbacks, issues were created, new features were added by request and I was amazed on how great it was to build and maintain this small project.
 
 
-## More to come...
+## More to come, checkout [all my repositories](https://github.com/miguelgraz)
