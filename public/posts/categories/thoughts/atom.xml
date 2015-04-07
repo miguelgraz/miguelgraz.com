@@ -4,7 +4,7 @@
   <title><![CDATA[Category: thoughts | Miguelgraz]]></title>
   <link href="http://miguelgraz.com/posts/categories/thoughts/atom.xml" rel="self"/>
   <link href="http://miguelgraz.com/"/>
-  <updated>2015-03-28T19:55:20-03:00</updated>
+  <updated>2015-04-07T14:43:51-03:00</updated>
   <id>http://miguelgraz.com/</id>
   <author>
     <name><![CDATA[Miguelgraz]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Being Nicer to People in Tech Industry]]></title>
+    <link href="http://miguelgraz.com/posts/2015/04/06/being-nicer-to-people-in-tech-industry/"/>
+    <updated>2015-04-06T17:26:33-03:00</updated>
+    <id>http://miguelgraz.com/posts/2015/04/06/being-nicer-to-people-in-tech-industry</id>
+    <content type="html"><![CDATA[<p>After more than 4 years working at the same (amazing) place and, with the help of my teammates, learning a lot about this beautiful world we call &ldquo;web development&rdquo;, I was finally wondering about my day-by-day workflow. Despite the fact that I was feeling really productive and happy with my own work it still seemed <em>too</em> comfortable, I mean, I had this feeling that it was about time to search for something new, for some new challenges, for something out of my comfort zone. They say that there is no learning in the comfort zone and there is no comfort in the learning zone, it was time to move to the last one.<!-- more --><br/>
+Since I had bosses there are also friends doing the bosses roles, it was really easy to explain that to them and, as I expected, they were really comprehensives, I will miss those guys.</p>
+
+<p><a href="https://twitter.com/Miguelgraz/status/580507389385936896"><img class="right" src="/images/posts/being-nicer/tweet.png" width="350" height="350" title="&lsquo;Tweeting&rsquo; &lsquo;Tweeting&rsquo;" ></a></p>
+
+<p>All this introduction to get to this point, where I made this &ldquo;looking for a new job&rdquo; a public announcement and kindly asked for a share from my friends, if they believe I deserve that. To my surprise <em>a lot</em> of people backed me up with that, spreading the world and personally recommending me to potential future employers and to receive this amount of trust was amazing, it made me realize how we lack this kind of attitude in a daily basis with other people, how easy it is to give a word of incentive and to congratulate a coworker and how we underestimate the effects of a this attitude.<br/>
+Obviously this doesn&rsquo;t mean we&rsquo;re all bad people that don&rsquo;t want to cheer our friends up, we simply forget to do it more often because we&rsquo;re always full of technical tasks and &ldquo;don&rsquo;t have time to chit-chat&rdquo;, ignoring the fact that this &ldquo;chit-chat&rdquo; can raise the morale at your workplace and even make people more productive!</p>
+
+<p>Many years ago the whole software industry used to put all its trust on heavy loads of documentation, employees back then had to spend a good part of their days writing how to use their software and the little Miguelito, barely knowing technology, believed that by working with computers he wouldn&rsquo;t have to work with people, silly Miguelito.<br/>
+Time passed by and the software industry got to know those &ldquo;agile methodologies&rdquo;, a couple of concepts that, surprise-surprise, put more value on <em>communication</em> than <em>documentation</em> and, as far as I can tell, apparently is working fine. These methodologies know the value of having a communicative team, of having everyone involved on the same page and with the same values, objectives, mindset.</p>
+
+<p>I don&rsquo;t intent at all to say how we should build software or (not?) manage teams but companies using agile methodologies are noticing the power of kindness on communication, open source software maintainers know that a good software is not all, people also expect some kindness when opening an issue, asking for help and even starting to contribute.<br/>
+That&rsquo;s even truer considering that our field of study/work has many people suffering from <a href="http://en.wikipedia.org/wiki/Impostor_syndrome">Impostor Syndrome</a> in different degrees and lots of groups trying to make the tech industry more friendly to women and fulfill these sad minorities gaps we have.</p>
+
+<p>Let us not underestimate the power of treating people nicer, software isn&rsquo;t dealing only with computers anymore, it&rsquo;s dealing with people and being kind.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Why I Quit my Master's Degree]]></title>
@@ -24,7 +47,7 @@
 
 <p>Well, things didn&rsquo;t quite happen the way I&rsquo;ve planned when I was 15 (and does it ever do?). Last year I found myself about to finish graduation and with an amazing master&rsquo;s degree just around the corner. Without thinking too much, I took the qualification test, made it, and suddenly I had classes beginning in a couple of months. I was incredible happy, never thought I would pass the test or that any teacher there would support and help me, but I was in. Half (ok, maybe not that much) of the former dream was completed, I didn&rsquo;t bother if the classes were in the morning or if this could affect my productivity at work (and believe me, it was a time when I <em>really</em> didn&rsquo;t want to decrease productivity), I was in and I&rsquo;d make everything for this to happen properly.</p>
 
-<p>So it all began, and a couple of weeks later I decided to left.</p>
+<p>So it all began, and a couple of weeks later I decided to leave.</p>
 
 <p>I went to the classes and I was amazed about how cool all that was, with a lot of great people of different areas willing to pass their knowledge to you. I used to go to classes in the morning, have a quick lunch and work until 9pm to accomplish the tasks I didn&rsquo;t do in the morning. Despite that, I was seeing myself a bit closer to that initial dream, until the time I realized that maybe being a teacher does not necessarily mean getting a master&rsquo;s degree. I realized that I was investing time and efforts in Academic area, which means that I&rsquo;d need to do a lot of things almost meaningless to companies (I love to work with my buddies).</p>
 
