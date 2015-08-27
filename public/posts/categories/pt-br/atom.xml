@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: pt-br | Miguelgraz]]></title>
+  <link href="http://miguelgraz.com/posts/categories/pt-br/atom.xml" rel="self"/>
+  <link href="http://miguelgraz.com/"/>
+  <updated>2015-08-27T18:49:30-03:00</updated>
+  <id>http://miguelgraz.com/</id>
+  <author>
+    <name><![CDATA[Miguelgraz]]></name>
+    <email><![CDATA[miguelgraz@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Pirataria, Awesome Apps e Contribuições]]></title>
+    <link href="http://miguelgraz.com/posts/2013/10/09/pirataria-awesome-apps-e-contribuicoes/"/>
+    <updated>2013-10-09T22:15:00-03:00</updated>
+    <id>http://miguelgraz.com/posts/2013/10/09/pirataria-awesome-apps-e-contribuicoes</id>
+    <content type="html"><![CDATA[<p>Sempre acreditei que pirataria se combate com preços justos/baixos e comodidade, e está aí o sucesso do <a href="http://store.steampowered.com/">Steam</a> que não me deixa mentir, ter uma plataforma user-friendly, com comodidade de pagamento rápido e entrega na velocidade de um download para comprar seus jogos/músicas/filmes/livros é muito mais sedutor e atraente que buscar torrent, keygen e afins para piratear<!-- more -->, mesmo o “maior pirata” considera pagar por essa comodidade, e, na minha humilde opinião, essa é a chave para acabar com a pirataria (lembremos que, independentemente de opinião, pirataria é crime até segunda ordem).</p>
+
+<p>Por essas razões e vontades pessoais de deixar de consumir qualquer tipo de pirataria que fiquei muito animado com a descoberta dessa incrível aplicação que trago pra você meu amigo <s>dono de casa</s> Linux user o <a href="http://gsharkdown.bultux.org/">gSharkDown</a>, uma aplicação desenvolvida em Python (infelizmente só para Linux) cliente de GrooveShark com diversas funcionalidades (inclusive download das músicas, mas não esqueça do que falamos anteriormente). Ainda está na versão 0.7 (baixe o pacote direto, é mais novo que o ppa), mas está muito madura e é muito promissora, vá conferir e pense na possibilidade de, usando o tubarãozim, deixar que as propagandas paguem teu consumo de música, que tal?</p>
+
+<p>E agora vem a melhor parte, o projeto do gSharkDown está no <a href="https://bitbucket.org/vkolev/gsharkdown">BitBucket deles</a>, disponível para qualquer boa alma que acredita nas mesmas coisas que eu e os mentores do projeto ajudar no desenvolvimento! Parece-me muito interessante um futuro onde as pessoas possam colaborar para ajudar as outras pessoas a consumirem o estilo de cultura que preferirem (que tipo de música tu gosta?) sem infringir nenhuma lei e dando os créditos (e dinheiros) aos proprietários das obras que estão consumindo, não concorda?</p>
+
+<p>Eu já ajudei na tradução para português e depois vou buscar melhorar meus conhecimentos em Python para ajudar esses caras a desenvolver o gSharkDown e disponibilizar para a galera, participar de uma melhoria para qualquer outro Miguel por aí que resolver mudar e deixar de piratear música já é um baita “pagamento”.</p>
+
+<p>Bora ajudar?</p>
+]]></content>
+  </entry>
+  
+</feed>
