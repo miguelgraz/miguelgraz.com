@@ -11,6 +11,22 @@ Here you can find some of the talks I gave in different places and situations, a
 
 <hr>
 
+### Jacket On, Jacket Off - Stop Working and Start Training!
+
+While thinking about my other presentations I realized that the one I probably enjoy most is the "Remote Working with Vikings" which is also the presentation more focused on people. With that in mind and after joining [HappyBear](https://www.happybearsoftware.com/) I decided to develop a presentation about an interesting practice we (try to) have, saving fridays to work in our own skills instead of doing client work.
+
+I had the pleasure to present this talk in some amazing conferences inside Brazil like the [XPConfBR](http://www.wildtech.com.br/xpconfbr). Also this was the first talk I gave a shot and submitted to a bunch of international events and, for my happiness, it was accepted and I had the opportunity and experience to present a talk in english first at [CleanCodeDays 2015](http://www.cleancode-days.de/) in Munich and then at [Agile Spain 2015](http://cas2015.agile-spain.org/) in Madrid. It was an outstanding experience and I definitely want to live it again!
+<div class="speakerdeck">
+  <iframe src="//www.slideshare.net/slideshow/embed_code/key/JD68GFGmnKJR7s" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
+</div>
+
+### Ruby: A New World
+
+Around September 2015 the fine fellas from [iMasters](http://imasters.com.br/), in their first time promoting the DeveloperWeek outside São Paulo, got in touch with me with an invite to talk a bit about Ruby. It was a flattering invitation and by November I presented these slides at the [DeveloperWeek Porto Alegre](http://developerweek.imasters.com.br/porto-alegre/) conference to a technical audience explaining a bit why Ruby is so awesome.
+<div class="speakerdeck">
+  <script async class="speakerdeck-embed" data-id="ff117069b52343f08f3ccb14a5fd504b" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
 ### Remote Working with Vikings: Tools and Tricks from far far away
 
 This talk was featured in several local events, from [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2014/) to [TcheLinux](http://poa.tchelinux.org/) and some events at local universities (known as _academic weeks_) like SenacRS, Unisinos and Feevale.
